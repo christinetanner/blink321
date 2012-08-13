@@ -61,6 +61,7 @@ void loop() {
   delay (1000);
   
 // All LEDs go off
+
   digitalWrite(led0, LOW); 
   digitalWrite(led1, LOW);
   digitalWrite(led2, LOW);
@@ -88,6 +89,7 @@ void loop() {
   delay (1000);
   
 // All LEDs go off
+
   digitalWrite(led0, LOW); 
   digitalWrite(led1, LOW);
   digitalWrite(led2, LOW);
@@ -116,6 +118,7 @@ void loop() {
   delay (1000);
 
 // All LEDs go off
+
   digitalWrite(led0, LOW); 
   digitalWrite(led1, LOW);
   digitalWrite(led2, LOW);
